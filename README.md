@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To make the project run, these scripts need to be install:
 `yarn add --save redux redux-devtools-extension redux-thunk asios`
 
-In the project directory, you can run:
+In the project directory, you can run:；
 
 ### `yarn start`
 
